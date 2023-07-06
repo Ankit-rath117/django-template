@@ -11,5 +11,5 @@ Create a virtual environment and install Django before running the above command
 
 ## You want to deploy to Heroku, where a Procfile is needed
 ```
-django-admin startproject --template https://github.com/username/repo/archive/master.zip --name=Procfile <<YOUR_PROJECT_NAME>> .
+django-admin startproject --template https://github.com/rufier-dev/django-custom-template/archive/master.zip --name=Procfile <<YOUR_PROJECT_NAME>> .
 ```
