@@ -1,6 +1,6 @@
 ## Django custom template
 
-# USE this command to create this custom django template.
+# USE below command to create this custom django template.
 ```
 django-admin startproject --template https://github.com/Ankit-rath117/django-template/archive/master.zip <<YOUR_PROJECT_NAME>> .
 ```
@@ -9,7 +9,7 @@ django-admin startproject --template https://github.com/Ankit-rath117/django-tem
 
 Create a virtual environment and install Django before running the above command.
 
-## You want to deploy to Heroku, where a Procfile is needed
+## Deploy to Heroku, where a Procfile is needed
 ```
 django-admin startproject --template https://github.com/rufier-dev/django-custom-template/archive/master.zip --name=Procfile <<YOUR_PROJECT_NAME>> .
 ```
