@@ -1,0 +1,5 @@
+python-dotenv
+# django-ckeditor
+pillow
+django-hosts
+django-tinymce  
