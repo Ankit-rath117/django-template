@@ -14,4 +14,4 @@ Create a virtual environment and install Django before running the above command
 django-admin startproject --template https://github.com/rufier-dev/django-custom-template/archive/master.zip --name=Procfile <<YOUR_PROJECT_NAME>> .
 ```
 
-## {{project_name}}'S README STARTS FROM HERE >>>
+## Project's README STARTS FROM HERE >>>
