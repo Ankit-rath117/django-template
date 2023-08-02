@@ -15,4 +15,3 @@ django-admin startproject --template https://github.com/rufier-dev/django-custom
 ```
 
 ## {{project_name}}'S README STARTS FROM HERE >>>
-***
